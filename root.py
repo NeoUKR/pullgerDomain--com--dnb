@@ -1,5 +1,5 @@
-from squirrel import SquairrelCore
-from pyPullgerFootPrint.com.dnb import search
+import squirrel
+from pullgerFootPrint.com.dnb import search
 import time
 
 class Root():
